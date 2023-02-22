@@ -1,0 +1,5 @@
+id,datum_objednavky,jmeno,nazev,cena,mnozstvi,stav
+2,2023-02-03 14:24:30,Petr Dvorak,Jablko,15.0,7,odeslano
+4,2023-02-03 14:47:00,Jakub Machacek,Jablko,15.0,2,vyrizeno
+1,2023-02-03 14:22:52,Petr Dvorak,Mikrovlnka,1500.0,3,odeslano
+3,2023-02-03 14:25:49,Alois Novotny,Mikrovlnka,1500.0,1,vyrizeno
